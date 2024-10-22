@@ -1,3 +1,10 @@
+# Construccion De Software
+
+| Rol      | Nombre                       | NRC   |
+|----------|------------------------------|-------|
+| Estudiante | Jheyson Paul Paytan Huaman  | 15970 |
+| Docente   | Daniel Gamarra Moreno        |       |
+
 # Proyecto de Calculadora en Python
 
 ## Descripción del Proyecto
